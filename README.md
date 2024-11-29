@@ -1,5 +1,7 @@
 # Dockerfile-host-to-server
 dockerfile-build-run-host on server
+
+#you can also pull the image from command ----{docker pull suresh202/ecommerce1}
 .............................................................................
 Step 1: $ sudo su
         password ubuntu os
@@ -14,7 +16,11 @@ Step 5: docker build . (to build a container)
 
 Step 6 :docker images (images id ) to select you want run on web server
 
-Step 7: docker run -d - p 80:80 <image id you want to use hosting a website)
+Step 7: docker run -d - p 80:80 <image id you want to use hosting a website) 
+
+Step 8 : docker ps <to check the docker container running or not & on which port>
+
+
 
 ---------------------------------------------------------------------------------------
 
