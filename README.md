@@ -3,6 +3,8 @@ dockerfile-build-run-host on server
 
 #you can also pull the image from command ----{docker pull suresh202/ecommerce1}
 .............................................................................
+
+
 Step 1: $ sudo su
         password ubuntu os
         
