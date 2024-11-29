@@ -44,13 +44,13 @@ git commit -m "first commit"
 
 git branch -M main
 
-git remote add origin https://github.com/Sureshbeniwa06/Dockerfile-host-to-server.git
+git remote add origin https://github.com/Sureshbeniwa06/Docker-images-on-localhost-running-how-
 
 git push -u origin main
 
 …or push an existing repository from the command line
 
-git remote add origin https://github.com/Sureshbeniwa06/Dockerfile-host-to-server.git
+git remote add origin https://github.com/Sureshbeniwa06/Docker-images-on-localhost-running-how-
 
 git branch -M main
 
