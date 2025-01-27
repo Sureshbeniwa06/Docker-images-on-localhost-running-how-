@@ -1,4 +1,4 @@
 FROM nginx:1.10.1-alpine
 
-COPY src/html /usr/share/nginx/E-commerce-/index.html
+COPY . /usr/share/nginx/E-commerce-/index.html
 
