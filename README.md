@@ -25,6 +25,10 @@ Step 7: docker run -d - p 85:80 <image id you want to use hosting a website)
 Step 8 : docker ps <to check the docker container running or not & on which port>
 
 
+Name -suresh
+beniwalsuresh117@gmail.com
+
+
 
 ---------------------------------------------------------------------------------------
 
